@@ -1,4 +1,6 @@
-# HIMH 31/3/2022
+# Created by: Hassan Ibrahim 2022-03-31
+# GitHub:     https://github.com/HIMH1
+
 import threading
 import redis  # Redis package for Python
 import tkinter as tk
